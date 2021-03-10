@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0da01d96-ae9a-4f37-8bdc-2133fda1c990" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Vue/code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue/code/js/compile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue/code/js/mvvm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue/code/js/observer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue/code/js/watcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-15视频播放器/backup_ios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-15视频播放器/ios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-16武汉大学/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-16武汉大学/css/swiper-bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-16武汉大学/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-16武汉大学/js/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-16武汉大学简版/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-17华东理工/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18千图网/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18导航/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-18导航/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/btbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/footer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/kd1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/kd2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/logo_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/qh100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/tbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/top1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/top2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-21清华大学首页/img/top3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23带视频和音频的/videos/dy.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/f1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/f3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/f4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/wb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/images/wx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-23甜点/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-24大学生活/效果图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-25响应式黑粉红音乐网站/audios/nf.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-25响应式黑粉红音乐网站/videos/dy.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-28儿童食品/img/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-28儿童食品/img/m1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-28儿童食品/img/m2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-28儿童食品/img/m3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-28儿童食品/img/m4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-28儿童食品/img/m6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-28儿童食品/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-12-30页面/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/appointment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/audios/nf.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/ad1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/ad2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/banner_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/dr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/img_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/ing_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/ing_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05婚纱/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05汇尚臻品首页/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/btn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/erweima_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/footer01_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/footer02_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/footer03_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/footer_logo_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/footer_right_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/gw12301.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/gw12302.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/huodong_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/img_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/import_title_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/link_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/logo_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/s_e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/sea_btn_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/share01_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/share04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/share2_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/share3_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/stone_title_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/title01_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/title03_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/title04_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/title_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/weixin_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-05聊城大学/images/xiaoyuanhao_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/i5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon1_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon2_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon3_active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/icon6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/images/xl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07旅游首页/video/lvyou.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/2-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/2-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/2-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/2-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/2-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/3-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/3-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/3-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/3-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/3-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-07首页/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021-01-08个人页面/2021-01-08技术博客/特效.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/北京大学图书馆_files/css_21r_tk-SLsufVeLkS_3B4uqr9GGTGJp1lQwpGP8eHSE.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/css/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/css/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/css/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/css/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../北大图书馆/页面/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../天涯社区/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../天涯社区/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../天涯社区/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../天涯社区/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019-10/computer_recommendation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019-10/sql/mall_sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019-10/sql/电脑数据模板.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/2019笔记.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/composerJson.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/cssxfire.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/google-java-format.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/.idea/yii2settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019笔记/notes" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.8891026">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/images/logo.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="784">
+                  <caret line="159" column="38" selection-start-line="159" selection-start-column="38" selection-end-line="159" selection-end-column="38" />
+                  <folding>
+                    <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/40deb234e51099c4d7c00c3a38673d90/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/16851614223544_.pic.jpg">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="787">
+                  <caret line="30337" column="1" selection-start-line="30337" selection-start-column="1" selection-end-line="30337" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#44397#44652#2" expanded="true" />
+                    <element signature="e#45329#45503#1" expanded="true" />
+                    <element signature="e#45545#45800#1" expanded="true" />
+                    <element signature="e#48436#48750#2" expanded="true" />
+                    <element signature="e#49441#49615#1" expanded="true" />
+                    <element signature="e#49657#49971#1" expanded="true" />
+                    <element signature="e#84059#84267#2" expanded="true" />
+                    <element signature="e#84520#84677#2" expanded="true" />
+                    <element signature="e#85127#85283#2" expanded="true" />
+                    <element signature="e#86664#86838#1" expanded="true" />
+                    <element signature="e#103247#103504#2" expanded="true" />
+                    <element signature="e#104530#104793#2" expanded="true" />
+                    <element signature="e#140634#140830#2" expanded="true" />
+                    <element signature="e#140885#141082#2" expanded="true" />
+                    <element signature="e#240185#240345#1" expanded="true" />
+                    <element signature="e#955777#955937#1" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/40deb234e51099c4d7c00c3a38673d90/Message/MessageTemp/13947734ffb408143ef9801e246a40a0/Image/214711614226445_.pic.jpg">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/dropzone.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3675">
+                  <caret line="175" column="6" selection-start-line="175" selection-start-column="6" selection-end-line="175" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="983">
+                  <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Check your job schedule</find>
+      <find>Hello</find>
+      <find>Server responded with</find>
+      <find>previewImage</find>
+      <find>card-body</find>
+      <find>display: none</find>
+      <find>17</find>
+      <find>.text-primary</find>
+      <find>36C95F</find>
+      <find>http://www.w3.org/2000/svg</find>
+      <find>.nav-header</find>
+      <find>./images/logo-text.png</find>
+      <find>首页</find>
+      <find>血液采集</find>
+      <find>.nav-header .logo-abbr</find>
+      <find>mb-4 hidden</find>
+      <find>hidden</find>
+      <find>2</find>
+      <find>2D3E4E</find>
+      <find>(max-width: 575px)</find>
+      <find>imghead</find>
+      <find>#imghead</find>
+      <find>showimg</find>
+      <find>img-content</find>
+      <find>6a6a6a</find>
+      <find>6A6A6A</find>
+      <find>3E497F</find>
+      <find>7e7e7e</find>
+      <find>.email-left-box</find>
+      <find>(max-width: 575.98px)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2D3E4E</replace>
+      <replace>6A6A6A</replace>
+      <replace>3E497F</replace>
+      <replace>33495E</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/dropzone.js" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="971" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="WxProject" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2021-02-25白细胞页面" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021-02-25白细胞页面" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2021-02-25白细胞页面" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2021-02-25白细胞页面" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da01d96-ae9a-4f37-8bdc-2133fda1c990" name="Default Changelist" comment="" />
+      <created>1614178726085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614178726085</updated>
+      <workItem from="1614178729478" duration="3960000" />
+      <workItem from="1614223530488" duration="1874000" />
+      <workItem from="1614226056062" duration="3177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9011000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="971" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17370391" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="SmartIM" order="11" />
+      <window_info anchor="bottom" id="Migrations" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="GraphQL" order="15" />
+      <window_info anchor="bottom" id="CSS-X-Fire" order="16" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Json Parser" order="3" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Api Debugger" order="7" />
+      <window_info anchor="right" id="Nativescript Palette" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/style.css" />
+    <entry file="file://$PROJECT_DIR$/images/upicon.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo-text.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dropzone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="175" column="6" selection-start-line="175" selection-start-column="6" selection-end-line="175" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="983">
+          <caret line="58" column="38" selection-start-line="58" selection-start-column="38" selection-end-line="58" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/40deb234e51099c4d7c00c3a38673d90/Message/MessageTemp/13947734ffb408143ef9801e246a40a0/Image/214711614226445_.pic.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/40deb234e51099c4d7c00c3a38673d90/Message/MessageTemp/9e20f478899dc29eb19741386f9343c8/Image/16851614223544_.pic.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="159" column="38" selection-start-line="159" selection-start-column="38" selection-end-line="159" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="30337" column="1" selection-start-line="30337" selection-start-column="1" selection-end-line="30337" selection-end-column="1" />
+          <folding>
+            <element signature="e#44397#44652#2" expanded="true" />
+            <element signature="e#45329#45503#1" expanded="true" />
+            <element signature="e#45545#45800#1" expanded="true" />
+            <element signature="e#48436#48750#2" expanded="true" />
+            <element signature="e#49441#49615#1" expanded="true" />
+            <element signature="e#49657#49971#1" expanded="true" />
+            <element signature="e#84059#84267#2" expanded="true" />
+            <element signature="e#84520#84677#2" expanded="true" />
+            <element signature="e#85127#85283#2" expanded="true" />
+            <element signature="e#86664#86838#1" expanded="true" />
+            <element signature="e#103247#103504#2" expanded="true" />
+            <element signature="e#104530#104793#2" expanded="true" />
+            <element signature="e#140634#140830#2" expanded="true" />
+            <element signature="e#140885#141082#2" expanded="true" />
+            <element signature="e#240185#240345#1" expanded="true" />
+            <element signature="e#955777#955937#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
