@@ -55,11 +55,11 @@ $(function () {
             error: function (response) {
                 //console.log(response);
                 let error = response.status;
-                if (error == 502)
+                if (error === 0)
                     alert('服务器繁忙，请稍后重新登录')
                 else {
                     //console.log(response);
-                    alert(error+'错误')
+                    alert('未知错误，请稍后再试')
                 }
             }
         })
