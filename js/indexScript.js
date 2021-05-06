@@ -2,6 +2,9 @@ document.querySelector('.img__btn').addEventListener('click', function() {
     document.querySelector('.content').classList.toggle('s--signup');
 })
 $(function () {
+    document.querySelector('.img__btn').addEventListener('click', function() {
+        document.querySelector('.content').classList.toggle('s--signup');
+    })
     let checkRule = /^1(3[0-9]|5[0-3,5-9]|7[1-3,5-8]|8[0-9]|9[0-9])\d{8}$/
     $('#registerPhone,#loginPhone').on("change", function () {
         let value = $(this).val();
@@ -24,11 +27,11 @@ $(function () {
         };
         $.ajax({
             type: 'POST',
-            // headers: { 
-            //     Accept: "application/json;charset=utf-8", 
+            // headers: {
+            //     Accept: "application/json;charset=utf-8",
             //     userToken: "" + getToken()
             // },
-            url: 'http://wbc-api.lyleshaw.com/v1/api/users/login',
+            url: 'http://43575728-1286728693454693.test.functioncompute.com/v1/api/users/login',
             data: JSON.stringify(data),
             contentType: 'application/json',
             success: function (data) {
@@ -43,23 +46,23 @@ $(function () {
                     alert(data.detail);
                 }
             },
-            xhr:function() {
-                var xhr = new XMLHttpRequest();
-                 //使用XMLHttpRequest.upload监听上传过程，注册progress事件，打印回调函数中的event事件
-                xhr.upload.addEventListener('progress', function (e) {
-                    var progressRate = (e.loaded / e.total) * 100 + '%';
-                    $('#progress').children("div").css('width', progressRate);
-                })
-                return xhr;
-            },
+            // xhr:function() {
+            //     var xhr = new XMLHttpRequest();
+            //      //使用XMLHttpRequest.upload监听上传过程，注册progress事件，打印回调函数中的event事件
+            //     xhr.upload.addEventListener('progress', function (e) {
+            //         var progressRate = (e.loaded / e.total) * 100 + '%';
+            //         $('#progress').children("div").css('width', progressRate);
+            //     })
+            //     return xhr;
+            // },
             error: function (response) {
                 //console.log(response);
                 let error = response.status;
-                if (error == 502)
+                if (error === 0)
                     alert('服务器繁忙，请稍后重新登录')
                 else {
                     //console.log(response);
-                    alert(error+'错误')
+                    alert('未知错误，请稍后再试')
                 }
             }
         })
