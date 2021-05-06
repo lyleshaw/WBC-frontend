@@ -9674,7 +9674,7 @@ button {
 #logo{
   margin-bottom:10px;
   text-align:center;
-  background-color: #7a7a7a;
+  background-color: #33495E;
   padding:40px;
   border-top-left-radius:4px;
   border-top-right-radius:4px;
@@ -9683,8 +9683,8 @@ button {
 }
 
 .img-content{
-  width:100px;
-  min-height:100px;
-  border:1px solid #ccc;
+  width:115px;
+  min-height:115px;
+  border-style: inset;;
   padding:10px;
 }

@@ -6,27 +6,27 @@ $(function () {
         localStorage.removeItem("Token");
         $(location).prop("href", "login.html");
     })
-    //发布图片预览
-    $('#previewImg').on('change',function(){
-        var c_showImg =this.files[0];
-        getObjectURL(c_showImg);
+    // //发布图片预览
+    // $('#previewImg').on('change',function(){
+    //     var c_showImg =this.files[0];
+    //     getObjectURL(c_showImg);
         
-    })
+    // })
 
-    function getObjectURL(file) {
-        var url = null;
-        if(window.createObjectURL != undefined) { // basic
-            url = window.createObjectURL(file);
-        } else if(window.URL != undefined) { // mozilla(firefox)
-            url = window.URL.createObjectURL(file);
-        } else if(window.webkitURL != undefined) { // webkit or chrome
-            url = window.webkitURL.createObjectURL(file);
-        }
-        $("#imghead").prop("src", url);
-        // $('.imghead').css("background-image","url("+url+")");
-        // $('.imghead').css("background-size","100% 100%")
-        return url;
-    }
+    // function getObjectURL(file) {
+    //     var url = null;
+    //     if(window.createObjectURL != undefined) { // basic
+    //         url = window.createObjectURL(file);
+    //     } else if(window.URL != undefined) { // mozilla(firefox)
+    //         url = window.URL.createObjectURL(file);
+    //     } else if(window.webkitURL != undefined) { // webkit or chrome
+    //         url = window.webkitURL.createObjectURL(file);
+    //     }
+    //     $("#imghead").prop("src", url);
+    //     // $('.imghead').css("background-image","url("+url+")");
+    //     // $('.imghead').css("background-size","100% 100%")
+    //     return url;
+    // }
     //提交图片
     $("#tijiaotupian").click(function () {
         $("#progress").css('display', 'block');
