@@ -37,7 +37,7 @@ $(function () {
         var formData = new FormData();
         formData.append('file', $('#previewImg')[0].files[0]);
         $.ajax({
-            url: "http://43575728-1286728693454693.test.functioncompute.com/v1/api/files",  
+            url: "http://wbc-api.lyleshaw.com/v1/api/files",  
             // header: {
             //     Authorization: localStorage.getItem("Token")
             // },

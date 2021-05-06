@@ -28,7 +28,7 @@ $(function () {
             //     Accept: "application/json;charset=utf-8", 
             //     userToken: "" + getToken()
             // },
-            url: 'http://43575728-1286728693454693.test.functioncompute.com/v1/api/users/login',
+            url: 'http://wbc-api.lyleshaw.com/v1/api/users/login',
             data: JSON.stringify(data),
             contentType: 'application/json',
             success: function (data) {
@@ -77,7 +77,7 @@ $(function () {
         }
         $.ajax({
             type: 'POST',
-            url: 'http://43575728-1286728693454693.test.functioncompute.com/v1/api/users/register',
+            url: 'http://wbc-api.lyleshaw.com/v1/api/users/register',
             data: JSON.stringify(data),
             contentType: 'application/json',
             success: function () {
